@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/stars/musaxonov656?label=Stars&style=for-the-badge">
 </p>
 
-
+---
 
 ### O'zim haqimda
 <p align="center">
@@ -24,7 +24,7 @@
   <br>
   🎯 Maqsadim: <b>Yaxshi dasturchi bo‘lish va real loyihalar yaratish</b>
 </p>
-
+---
 
 ### Rivojlanish sari qadamlar
 <p align="center">
@@ -93,11 +93,14 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaxonov656&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=00F2FE&fire=764ba2&currStreakLabel=4FACFE&sideLabels=ffffff&currStreakNum=00F2FE&border_radius=15" />
 </div>
 
+---
+
 <!-- Activity Graph with working URL -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=musaxonov656&theme=react-dark&bg_color=0D1117&color=4FACFE&line=00F2FE&point=764ba2&area=true&hide_border=true" width="95%"/>
 </div>
 
+---
 
 ### 🤝 Men bilan bog‘lanish
 <p align="center">
