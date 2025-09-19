@@ -25,6 +25,26 @@
   🎯 Maqsadim: <b>Yaxshi dasturchi bo‘lish va real loyihalar yaratish</b>
 </p>
 
+
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/technology-concept-human-head-with-brain-structure-connecting-electronic-circuits-social-media-p_896558-42503.jpg" width="600">
+</p>
+
+<p align="center">
+  ✨ <b>Hayotimdagi eng katta ishtiyoq – bu dasturchilik!</b> <br><br>
+  🔥 <b>Men doimo yangi narsalarni o‘rganishga intilaman – har kuni kod yozib, 
+  bilimlarimni mustahkamlayman.</b> <br>
+  🚀 <b>Texnologiyalar yordamida dunyoni yanada qulay, 
+  aqlli va innovatsion qilishni maqsad qilganman.</b> <br><br>
+  📚 <b>Hozir Python, JavaScript, HTML va CSS ustida ishlayapman, 
+  shuningdek Git va VS Code kabi asboblarni puxta o‘rganayapman.</b> <br>
+  💻 <b>Mening asosiy motivatsiyam – o‘z bilimim bilan boshqalarga foyda keltirish va 
+  kelajakda katta loyihalar muallifi bo‘lish!</b> <br><br>
+  💡 <b>Siz ham bu sayohatga qo‘shiling – birga ajoyib narsalar yaratamiz!</b>
+</p>
+
+
+
 ---
 
 ### 🛠️ Texnologiyalar va Asboblar
