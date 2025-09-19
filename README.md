@@ -86,18 +86,25 @@
 
 ---
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=musaxonov656&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FACFE&text_color=ffffff&icon_color=00F2FE&border_radius=15"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaxonov656&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FACFE&text_color=ffffff&border_radius=15"/>
+
+<!-- GitHub Stats -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=musaxonov656&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- Top Languages -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaxonov656&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<div align="center" style="margin: 20px 0;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=musaxonov656&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=00F2FE&fire=764ba2&currStreakLabel=4FACFE&sideLabels=ffffff&currStreakNum=00F2FE&border_radius=15" />
+<!-- Streak Stats -->
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=musaxonov656&theme=tokyonight&hide_border=true" />
 </div>
 
-<!-- Activity Graph with working URL -->
+<!-- Activity Graph -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=musaxonov656&theme=react-dark&bg_color=0D1117&color=4FACFE&line=00F2FE&point=764ba2&area=true&hide_border=true" width="95%"/>
 </div>
+
 
 ---
 
