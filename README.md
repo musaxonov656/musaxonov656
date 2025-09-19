@@ -16,7 +16,7 @@
 
 
 
-
+### O'zim haqimda
 <p align="center">
   💻 <b>Dasturchi | O‘rganishni va kod yozishni yaxshi ko‘raman!</b>  
   <br>
@@ -26,6 +26,7 @@
 </p>
 
 
+### Rivojlanish sari qadamlar
 <p align="center">
   <img src="https://img.freepik.com/premium-photo/technology-concept-human-head-with-brain-structure-connecting-electronic-circuits-social-media-p_896558-42503.jpg" width="600">
 </p>
