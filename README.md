@@ -24,6 +24,7 @@
   <br>
   🎯 Maqsadim: <b>Yaxshi dasturchi bo‘lish va real loyihalar yaratish</b>
 </p>
+
 ---
 
 ### Rivojlanish sari qadamlar
@@ -92,8 +93,6 @@
 <div align="center" style="margin: 20px 0;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaxonov656&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=00F2FE&fire=764ba2&currStreakLabel=4FACFE&sideLabels=ffffff&currStreakNum=00F2FE&border_radius=15" />
 </div>
-
----
 
 <!-- Activity Graph with working URL -->
 <div align="center">
