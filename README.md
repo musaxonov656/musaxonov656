@@ -97,7 +97,7 @@
 ---
 
 <h3 align="center">
-  💡 <b>Biror fikringiz bormi? Albatta yozing!</b>  
+  💡 <b>Biror fikringiz bormi? Albatta mening ijtimoiy tarmoqlarimga yozib qoldiring!</b>  
 </h3>
 
 <p align="center">
