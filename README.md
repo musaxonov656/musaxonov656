@@ -109,7 +109,11 @@
   <a href="https://t.me/musaxonov_m_2">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
+  <a href="https://www.instagram.com/musaxonov_m_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
+
 
 ---
 <p align="center">
