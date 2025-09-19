@@ -85,16 +85,14 @@
 </p>
 
 ---
-<div align="center" style="margin: 20px 0;">
-  
-  <!-- Faqat Streak Stat qoldirilgan -->
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaxonov656&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=00F2FE&fire=764ba2&currStreakLabel=4FACFE&sideLabels=ffffff&currStreakNum=00F2FE&border_radius=15" />
 </div>
 
-<!-- Faqat Activity Graph qoldirilgan -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=musaxonov656&theme=react-dark&bg_color=0D1117&color=4FACFE&line=00F2FE&point=764ba2&area=true&hide_border=true" width="95%"/>
 </div>
+
 
 
 ---
