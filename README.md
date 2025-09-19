@@ -118,6 +118,164 @@
 
 ---
 
+### Kel o'yin o'ynaymiz
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Catch The Ball 🎯</title>
+  <style>
+    body {
+      margin: 0;
+      background: #0d1117;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      overflow: hidden;
+      font-family: sans-serif;
+    }
+    canvas {
+      background: #111827;
+      border: 2px solid #1f2937;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(79,172,254,0.3);
+    }
+    .score {
+      font-size: 20px;
+      margin-bottom: 10px;
+    }
+    .restart {
+      margin-top: 10px;
+      display: none;
+    }
+    button {
+      background: #4facfe;
+      border: none;
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      color: #021;
+    }
+    button:hover {
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+  <div class="score">Ball: <span id="score">0</span></div>
+  <canvas id="game" width="400" height="600"></canvas>
+  <div class="restart">
+    <button onclick="restartGame()">🔄 Yana o‘ynash</button>
+  </div>
+
+  <script>
+    const canvas = document.getElementById("game");
+    const ctx = canvas.getContext("2d");
+    const scoreEl = document.getElementById("score");
+    const restartDiv = document.querySelector(".restart");
+
+    let paddle = { x: canvas.width / 2 - 40, y: canvas.height - 20, w: 80, h: 10, speed: 8 };
+    let balls = [];
+    let score = 0;
+    let gameOver = false;
+    let spawnRate = 90;
+    let frame = 0;
+
+    function spawnBall() {
+      const x = Math.random() * (canvas.width - 15);
+      balls.push({ x, y: 0, r: 10, dy: 2 });
+    }
+
+    function drawPaddle() {
+      ctx.fillStyle = "#4facfe";
+      ctx.fillRect(paddle.x, paddle.y, paddle.w, paddle.h);
+    }
+
+    function drawBalls() {
+      ctx.fillStyle = "#facc15";
+      balls.forEach(b => {
+        ctx.beginPath();
+        ctx.arc(b.x, b.y, b.r, 0, Math.PI * 2);
+        ctx.fill();
+      });
+    }
+
+    function updateBalls() {
+      balls.forEach((b, i) => {
+        b.y += b.dy;
+        if (b.y + b.r > paddle.y &&
+            b.x > paddle.x &&
+            b.x < paddle.x + paddle.w) {
+          score++;
+          scoreEl.textContent = score;
+          balls.splice(i, 1);
+          b.y = canvas.height + 100;
+          if (spawnRate > 30) spawnRate -= 2;
+        }
+        if (b.y > canvas.height) gameOver = true;
+      });
+    }
+
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      drawPaddle();
+      drawBalls();
+    }
+
+    function gameLoop() {
+      if (gameOver) {
+        ctx.fillStyle = "white";
+        ctx.font = "24px sans-serif";
+        ctx.fillText("O‘yin tugadi! Ball: " + score, 70, canvas.height / 2);
+        restartDiv.style.display = "block";
+        return;
+      }
+      frame++;
+      if (frame % spawnRate === 0) spawnBall();
+      updateBalls();
+      draw();
+      requestAnimationFrame(gameLoop);
+    }
+
+    function restartGame() {
+      balls = [];
+      score = 0;
+      scoreEl.textContent = 0;
+      gameOver = false;
+      spawnRate = 90;
+      frame = 0;
+      restartDiv.style.display = "none";
+      gameLoop();
+    }
+
+    // controls
+    window.addEventListener("keydown", e => {
+      if (e.key === "ArrowLeft") paddle.x -= paddle.speed;
+      if (e.key === "ArrowRight") paddle.x += paddle.speed;
+      paddle.x = Math.max(0, Math.min(canvas.width - paddle.w, paddle.x));
+    });
+
+    // mobile touch
+    canvas.addEventListener("touchmove", e => {
+      const touchX = e.touches[0].clientX - canvas.getBoundingClientRect().left;
+      paddle.x = touchX - paddle.w / 2;
+      paddle.x = Math.max(0, Math.min(canvas.width - paddle.w, paddle.x));
+    });
+
+    gameLoop();
+  </script>
+</body>
+</html>
+
+
+---
+
 <p align="center">
   <img src="https://telegra.ph/file/ba7ef0a24f70231cfbb58.jpg" width="600">
 </p>
