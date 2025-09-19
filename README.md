@@ -4,7 +4,7 @@
 
 
 <!-- Ultra Premium Animated Header for Boys -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Izzatulloh%20Karimov%20🚀%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Muhammadazizxon Musaxonov%20🚀%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
 
 <!-- Cool Boy Developer Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=4FACFE&center=true&vCenter=true&width=750&lines=⚡+Building+Epic+Web+Applications+⚡;🚀+Python+%7C+FastAPI+%7C+Clean+Code+🚀;💎+Crafting+Digital+Solutions+💎;🔥+Always+Coding%2C+Always+Growing+🔥" alt="Cool Typing Animation" />
