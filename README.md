@@ -83,8 +83,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaxonov656&layout=compact&theme=tokyonight" height="180">
   </a>
 </p>
-
----
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaxonov656&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FACFE&ring=00F2FE&fire=764ba2&currStreakLabel=4FACFE&sideLabels=ffffff&currStreakNum=00F2FE&border_radius=15" />
 </div>
@@ -98,7 +96,14 @@
 
 ---
 
-### 🤝 Men bilan bog‘lanish
+<h3 align="center">
+  👨‍💻 <b>Menga yozing — birga loyiha qilamiz!</b>  
+</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100">
+</p>
+
 <p align="center">
   <a href="mailto:musaxonov656@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -110,6 +115,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
+
 
 
 ---
