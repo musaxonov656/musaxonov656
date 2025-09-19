@@ -97,11 +97,11 @@
 ---
 
 <h3 align="center">
-  👨‍💻 <b>Menga yozing — birga loyiha qilamiz!</b>  
+  💡 <b>Biror fikringiz bormi? Albatta yozing!</b>  
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="120">
 </p>
 
 <p align="center">
@@ -115,6 +115,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
+
 
 
 
