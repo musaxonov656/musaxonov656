@@ -112,18 +112,14 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://wroom.ru/i/cars2/bmw_i8_1.jpg" width="600">
+  <img src="https://telegra.ph/file/ba7ef0a24f70231cfbb58.jpg" width="600">
 </p>
 
 <p align="center">
-✨ Mening profilingizga tashrif buyurganingizdan xursandman!  
-<br>  
-⭐ Agar sizga mening loyihalarim yoqsa, <b>Star</b> bosib qo‘ying – bu meni yanada ko‘proq motivatsiya qiladi!  
-<br>  
-💡 Yangi va qiziqarli g‘oyalaringiz bo‘lsa, menga bemalol <a href="https://t.me/musaxonov_m_2">yozing</a> – birga loyiha qilamiz!  
-<br>  
-🚀 Dasturchilikni birga rivojlantiraylik!
+  ✨ Mening profilingizga tashrif buyurganingizdan xursandman!  <br>
+  ⭐ Agar sizga mening loyihalarim yoqsa, <b>Star</b> bosib qo‘ying – bu meni yanada ko‘proq motivatsiya qiladi!  <br>
+  💡 Yangi va qiziqarli g‘oyalaringiz bo‘lsa, menga bemalol <a href="https://t.me/musaxonov_m_2">yozing</a> – birga loyiha qilamiz!  <br>
+  🚀 Dasturchilikni birga rivojlantiraylik!
 </p>
 
