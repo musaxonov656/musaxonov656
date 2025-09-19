@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salom, men Muhammadazizxon Musaxonov!</h1>
+<h1 align="center">👋 Salom, mening ismim Muhammadazizxon M!</h1>
 
 
 
