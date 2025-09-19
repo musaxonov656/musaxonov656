@@ -9,11 +9,6 @@
 <!-- Cool Boy Developer Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=4FACFE&center=true&vCenter=true&width=750&lines=⚡+Ajoyib+veb+dasturlar+yaratyapman+⚡;🚀+Python+%7C+FastAPI+%7C+Toza+kod+🚀;💎+Raqamli+yechimlar+yaratish+yo‘lida+💎;🔥+Doim+kod+yozaman%2C+doim+o‘saman+🔥" alt="Cool Typing Animation" />
 
-
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/technology-concept-human-head-with-brain-structure-connecting-electronic-circuits-social-media-p_896558-42503.jpg" width="600">
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/musaxonov656?label=Followers&style=for-the-badge">
   <img src="https://img.shields.io/github/stars/musaxonov656?label=Stars&style=for-the-badge">
