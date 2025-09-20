@@ -22,7 +22,7 @@
   <br>
   🌱 Hozirda: <b>Python, JavaScript, HTML, CSS</b> ni o‘rganayapman  
   <br>
-  🎯 Maqsadim: <b>Yaxshi dasturchi bo‘lish va real loyihalar yaratish</b>
+  🎯 Maqsadim: <b>Yaxshi dasturchi bo‘lish va yangicha loyihalar yaratish</b>
 </p>
 
 ---
