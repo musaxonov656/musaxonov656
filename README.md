@@ -101,7 +101,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500">
 </p>
 
 <p align="center">
